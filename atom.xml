@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://skydream-ovo.github.io</id>
+    <title>dreams.</title>
+    <updated>2021-04-11T12:49:31.276Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://skydream-ovo.github.io"/>
+    <link rel="self" href="https://skydream-ovo.github.io/atom.xml"/>
+    <subtitle>水梦的小窝</subtitle>
+    <logo>https://skydream-ovo.github.io/images/avatar.png</logo>
+    <icon>https://skydream-ovo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, dreams.</rights>
+</feed>
